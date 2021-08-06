@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+    }
+    #navbar{
+        float: left;
+        color: lightblue;
+        height: 300px;
+        width: auto;
+    }
+    @media only screen and (max-width: 768px){}
+    header{
+      
+      margin: 0 20px 0 20px;
+    }
+    #introduction{
+      margin-left: 400px;
+    }
+    .main-section{
+      margin: auto;
+    }
+    header-nav{
+      margin-top: 100px;
+    }
+    .navmenu{
+      margin: 20px;
+      padding: 30px;;
+    }
